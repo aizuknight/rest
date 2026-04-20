@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1N4148W")(type "KiCad")(uri "${KIPRJMOD}/lib/1N4148W/1N4148W.pretty")(options "")(descr ""))
+  (lib (name "keyswitch")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch/keyswitch.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/lib/misc")(options "")(descr ""))
+  (lib (name "XIAO-RP2040")(type "KiCad")(uri "${KIPRJMOD}/lib/XIAO-RP2040/XIAO-RP2040.pretty")(options "")(descr ""))
+  (lib (name "MJ-4PP-9")(type "KiCad")(uri "${KIPRJMOD}/lib/MJ-4PP-9/MJ-4PP-9.pretty")(options "")(descr ""))
+)
